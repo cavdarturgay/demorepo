@@ -40,4 +40,3 @@ spec:
     name: http
   selector:
     app: regapp
-
